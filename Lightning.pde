@@ -16,7 +16,7 @@ void draw()
   	stroke(0);
   	fill(0);
 	rect(10,140,5,20);
-	ellipse(35,145,12,12);
+	ellipse(35,145,10,10);
 	rect(10,140,25,10);
 
 	strokeWeight(3);
